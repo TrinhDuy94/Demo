@@ -1,0 +1,3 @@
+import publicip
+
+publicip.get()
