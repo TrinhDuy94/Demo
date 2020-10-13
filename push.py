@@ -1,0 +1,1 @@
+print("thu thoi nha")
